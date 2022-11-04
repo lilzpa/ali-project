@@ -1,4 +1,4 @@
-# Datacamp: Naïve Bees Image Loading and Processing [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lilzpa/ali-project/main?labpath=notebook.ipynb)
+# Datacamp: Naïve Bees Image Loading and Processing [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lilzpa/ali-project/main?filepath=notebook.ipynb)
 
 ## Project Description
 <p><img src="https://s3.amazonaws.com/assets.datacamp.com/production/project_374/img/honey.jpg" alt="honey bee">
